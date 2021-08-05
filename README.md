@@ -1,5 +1,5 @@
 # Resources App Powered by Vue 3 + Vite
-Simple Resources App where you can store, view and modify simple resources with title, link and description. 
+Very Simple Resources App where you can store, view and modify simple resources with title, link and description. 
 
 ## Installation
 
